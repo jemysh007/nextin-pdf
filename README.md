@@ -56,7 +56,7 @@ ILOVEPDF_SECRET_KEY="your-secret-key"
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/jemysh007/NextIn-PDF.git
+    git clone https://github.com/jemysh007/nextin-pdf.git
     ```
 
 2. Navigate to the project directory:
