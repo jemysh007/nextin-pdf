@@ -41,7 +41,7 @@ Here are the available API endpoints. For detailed documentation on the request 
 
 Explore the full API documentation, including detailed information on parameters, request body, and response formats using the Postman collection:
 
-[Postman Documentation Link](#)
+[Postman Documentation Link](https://documenter.getpostman.com/view/19085561/2s83f4HaEr)
 
 ## iLovePDF API Keys
 
@@ -92,7 +92,3 @@ ILOVEPDF_SECRET_KEY="your-secret-key"
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-This updated version includes the necessary instructions to obtain and set up the iLovePDF API keys. Let me know if you'd like to further adjust anything!
